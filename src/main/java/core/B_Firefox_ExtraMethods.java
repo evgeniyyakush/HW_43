@@ -7,7 +7,7 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.*;
 
-public class Firefox_P3 {
+public class B_Firefox_ExtraMethods {
 	static Properties p = new Properties();
 	static WebDriver driver;
 	

@@ -5,10 +5,9 @@
 04,Safari 13.1,index.php,Phone,true,805 705-2795,(315x34),(627x209)
 05,Safari 13.1,index.php,Submit,true,,(94x29),(847x398)
 06,Safari 13.1,index.php,TimeStamp,true,timestamp()June 23_ 2020 ,(233x20),(274x443)
-07,Safari 13.1,index.php,Quotes,true,quotes();The secret of getting ahead is getting started ,(1217x17),(6x38)
+07,Safari 13.1,index.php,Quotes,true,quotes();Happiness can exist only in acceptance ,(1217x17),(6x38)
 08,Safari 13.1,index.php,F_Title,true,Sign Up,(122x36),(287x69)
-09,Safari 13.1,index.php,Current_Location,true,
-                    	El Cerrito_ CA,(106x20),(801x56)
+09,Safari 13.1,index.php,Current_Location,true,El Cerrito_ CA,(106x20),(801x56)
 10,Safari 13.1,index.php,Weather_Icon,true,,(41x41),(786x76)
 11,Safari 13.1,index.php,Temperature,true,71 ℉,(59x33),(848x80)
 12,Safari 13.1,index.php,F_label_Fn,true,First Name,(86x20),(287x123)
@@ -40,14 +39,10 @@
 38,Safari 13.1,index.php,Gender_male,true,,(16x17),(292x285)
 39,Safari 13.1,index.php,Gender_female,true,,(16x17),(436x285)
 40,Safari 13.1,index.php,Terms,true,,(16x17),(283x338)
-41,Safari 13.1,confirmation.php,First Name,true,
-                        Evgeniy,(84x33),(295x145)
-42,Safari 13.1,confirmation.php,Last Name,true,
-                        Yakush,(78x33),(635x145)
-43,Safari 13.1,confirmation.php,Email,true,
-                        evgeniy.yakush@gmail.com,(270x33),(295x212)
-44,Safari 13.1,confirmation.php,Phone,true,
-                        805 705-2795,(139x33),(635x212)
+41,Safari 13.1,confirmation.php,First Name,true,Evgeniy,(84x33),(295x145)
+42,Safari 13.1,confirmation.php,Last Name,true,Yakush,(78x33),(635x145)
+43,Safari 13.1,confirmation.php,Email,true,evgeniy.yakush@gmail.com,(270x33),(295x212)
+44,Safari 13.1,confirmation.php,Phone,true,805 705-2795,(139x33),(635x212)
 45,Safari 13.1,confirmation.php,F_title,true,Confirmation,(200x37),(294x61)
 46,Safari 13.1,confirmation.php,F_label_fn,true,First Name,(85x20),(295x125)
 47,Safari 13.1,confirmation.php,F_label_ln,true,Last Name,(84x20),(635x125)
@@ -58,10 +53,6 @@
 52,Safari 13.1,confirmation.php,Cb_label_t,true,Terms?,(57x20),(295x327)
 53,Safari 13.1,confirmation.php,Back_button,true,,(95x30),(635x400)
 54,Safari 13.1,index.php,Copyright,true,copyright()© 2020 alex.academy,(185x20),(522x446)
-55,Safari 13.1,confirmation.php,Gender,true,
-                                                    
-                        ,(9x34),(295x279)
-56,Safari 13.1,confirmation.php,State,true,
-                        ,(9x34),(635x279)
-57,Safari 13.1,confirmation.php,Terms,true,
-                        ,(9x34),(295x346)
+55,Safari 13.1,confirmation.php,Gender,true,,(9x34),(295x279)
+56,Safari 13.1,confirmation.php,State,true,,(9x34),(635x279)
+57,Safari 13.1,confirmation.php,Terms,true,,(9x34),(295x346)

@@ -7,7 +7,7 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.*;
 
-public class Safari {
+public class B_Safari_alex {
 	static Properties p = new Properties();
 	static WebDriver driver;
 	

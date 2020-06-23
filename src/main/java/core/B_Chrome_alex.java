@@ -7,7 +7,8 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.*;
 
-public class Chrome {
+public class B_Chrome_alex
+{
 	static Properties p = new Properties();
 	static WebDriver driver;
 
@@ -18,13 +19,13 @@ public class Chrome {
 		System.out.println("Browser: Chrome");
 		String driverPath = "";
 
-		if (System.getProperty("os.name").toUpperCase().contains("MAC"))
-			driverPath = "./resources/webdrivers/mac/chromedriver";
-		else if (System.getProperty("os.name").toUpperCase().contains("WINDOWS"))
-			driverPath = "./resources/webdrivers/pc/chromedriver.exe";
+		if (System.getProperty("os.name").toUpperCase().contains("MAC"))                      driverPath = "./resources/webdrivers/mac/chromedriver";
+		else if (System.getProperty("os.name").toUpperCase().contains("WINDOWS"))    driverPath = "./resources/webdrivers/pc/chromedriver.exe";
 		else throw new IllegalArgumentException("Unknown OS");
 
 		System.setProperty("webdriver.chrome.driver", driverPath);
+		
+		
 		System.setProperty("webdriver.chrome.silentOutput", "true");
 		ChromeOptions option = new ChromeOptions();
 		option.addArguments("disable-infobars");

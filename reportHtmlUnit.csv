@@ -1,0 +1,58 @@
+#,Browser,Page,Field,isPresent,Value
+01,HtmlUnit,index.php,First Name,true,Evgeniy
+02,HtmlUnit,index.php,Last Name,true,Yakush
+03,HtmlUnit,index.php,Email,true,evgeniy.yakush@gmail.com
+04,HtmlUnit,index.php,Phone,true,805 705-2795
+05,HtmlUnit,confirmation.php,Submit,true,
+06,HtmlUnit,confirmation.php,TimeStamp,true,timestamp()June 23, 2020 
+07,HtmlUnit,confirmation.php,Quotes,true,quotes();The secret of getting ahead is getting started 
+08,HtmlUnit,confirmation.php,F_Title,true,Sign Up
+09,HtmlUnit,confirmation.php,Current_Location,true,El Cerrito, CA
+10,HtmlUnit,confirmation.php,Weather_Icon ,true,
+11,HtmlUnit,confirmation.php,Temperature ,true,70 ℉
+12,HtmlUnit,confirmation.php,F_label_Fn ,true,First Name
+13,HtmlUnit,confirmation.php,F_label_Ln ,true,Last Name
+14,HtmlUnit,confirmation.php,F_label_Ea ,true,Email Address
+15,HtmlUnit,confirmation.php,F_label_Pn ,false,null
+16,HtmlUnit,confirmation.php,F_label_S ,true,State
+17,HtmlUnit,confirmation.php,Fname_Error ,true,
+18,HtmlUnit,confirmation.php,Lname_Error ,false,null
+19,HtmlUnit,confirmation.php,Email_Error ,true,
+20,HtmlUnit,confirmation.php,Phone_Error ,true,
+21,HtmlUnit,confirmation.php,Rb_label_g ,true,Gender
+22,HtmlUnit,confirmation.php,Rb_label_m ,false,null
+23,HtmlUnit,confirmation.php,Rb_label_f ,true,Female
+24,HtmlUnit,confirmation.php,Cb_label_t ,true,I agree to the Terms
+25,HtmlUnit,confirmation.php,ErrorLine ,true,
+26,HtmlUnit,confirmation.php,Img_flickr ,true,
+27,HtmlUnit,confirmation.php,Img_facebook ,true,
+28,HtmlUnit,confirmation.php,Img_youtube ,false,null
+29,HtmlUnit,confirmation.php,Img_twitter ,true,
+30,HtmlUnit,confirmation.php,Link_twitter ,true,
+31,HtmlUnit,confirmation.php,Link_facebook ,true,
+32,HtmlUnit,confirmation.php,Link_flickr ,true,
+33,HtmlUnit,confirmation.php,Link_youtube ,false,null
+34,HtmlUnit,confirmation.php,Reset_button ,false,null
+35,HtmlUnit,confirmation.php,Copyright ,false,null
+36,HtmlUnit,confirmation.php,OS_Browser ,true,os_browser()Windows 7 & Chrome 81
+37,HtmlUnit,confirmation.php,F_Title ,true,Sign Up
+38,HtmlUnit,confirmation.php,Gender_male ,true,
+39,HtmlUnit,confirmation.php,Gender_female ,true,
+40,HtmlUnit,confirmation.php,Terms ,true,
+41,HtmlUnit,confirmation.php,First Name,true,Evgeniy
+42,HtmlUnit,confirmation.php,Last Name,true,Yakush
+43,HtmlUnit,confirmation.php,Email,true,evgeniy.yakush@gmail.com
+44,HtmlUnit,confirmation.php,Phone,true,805 705-2795
+45,HtmlUnit,confirmation.php,F_title ,true,Sign Up
+46,HtmlUnit,confirmation.php,F_label_fn ,true,First Name
+47,HtmlUnit,confirmation.php,F_label_ln ,true,Last Name
+48,HtmlUnit,confirmation.php,F_label_ea ,true,Email Address
+49,HtmlUnit,confirmation.php,F_label_Pn ,false,null
+50,HtmlUnit,confirmation.php,Rb_label_g ,true,Gender
+51,HtmlUnit,confirmation.php,F_label_s ,true,State
+52,HtmlUnit,confirmation.php,Cb_label_t ,true,I agree to the Terms
+53,HtmlUnit,confirmation.php,Back_button ,false,null
+54,HtmlUnit,confirmation.php,Copyright ,false,null
+55,HtmlUnit,confirmation.php,Gender ,false,null
+56,HtmlUnit,confirmation.php,State ,false,null
+57,HtmlUnit,confirmation.php,Terms ,true,

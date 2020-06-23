@@ -47,7 +47,7 @@
 					<appendAssemblyId>false</appendAssemblyId>
 					<archive>
 						<manifest>
-							<mainClass>core.Main</mainClass>
+							<mainClass>core.App</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

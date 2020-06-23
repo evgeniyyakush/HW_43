@@ -7,7 +7,7 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.*;
 
-public class Edge {
+public class B_Edge_alex {
 	static Properties p = new Properties();
 	static WebDriver driver;
 
